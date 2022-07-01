@@ -1,0 +1,22 @@
+@import './normalize.css';
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .example-input {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 10px 0;
+
+    input {
+      width: 600px;
+    }
+  }
+
+  .example-hls-player {
+    width: 80%;
+  }
+}
