@@ -1,6 +1,6 @@
 {
   "name": "react-hls-player",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "A simple HTTP Live Streaming player",
   "main": "./dist/index.js",
   "types": "./dist",
