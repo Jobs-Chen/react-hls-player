@@ -1,6 +1,6 @@
 {
   "name": "@krokky/react-hls-player",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple HTTP Live Streaming player",
   "main": "./dist/index.js",
   "types": "./dist",
